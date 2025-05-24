@@ -1,4 +1,4 @@
-# openvpn-install-script
+# OpenVPN Install Script - Install OpenVPN Under 1 Minute!
 
 OpenVPN install script for **Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux and AlmaLinux.**
 
