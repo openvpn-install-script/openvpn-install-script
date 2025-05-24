@@ -17,7 +17,7 @@ First, get a cheap VPS from Hostinger
 4. Type in the command under to get the automatic OpenVPN install script:
    
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+curl -O https://raw.githubusercontent.com/openvpn-install-script/openvpn-install-script/refs/heads/main/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
